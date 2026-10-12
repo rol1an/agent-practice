@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研思考与协作"
+  short_description: "通过有依据的提问，想清研究问题、贡献、证据与下一步验证方法"
+  default_prompt: "使用 $research-thinking 先读我的材料，再围绕最关键的缺口逐步提问，帮助我想清下一步。"
